@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+###　JSXの学習 
+
+・関数でのstyle組み込み
+・&&での表示切り替え
+・三項演算子での表示切り替え
+・liの配列定数をulに表示させる
+・jsonデータをmap関数でtableに表示させていく
+・p112 arrow関数で表示する
+・p115 setTimeoutで秒刻みで数字を1プラスしていく表示
+・p118 onClickで表示している数字を更新する
+・133 計算するコンポーネント作成
+・挨拶するclassの作成
+・p139 属性を利用して、四角いオブジェクトをclassで作る
+・p170 四角で描画する処理
+・p207 stateを使って数をカウント
+・p209 複数のステート作成、ボタンクリックでカウントエリアのデザインが変わる
